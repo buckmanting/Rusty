@@ -1,0 +1,6 @@
+[package]
+name = "Rusty"
+version = "0.1.0"
+authors = ["aaron.buckley@springernature.com <aaron.buckley@springernature.com>"]
+
+[dependencies]
