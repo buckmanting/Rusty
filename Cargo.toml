@@ -1,6 +1,7 @@
 [package]
-name = "Rusty"
+name = "rusty"
 version = "0.1.0"
 authors = ["aaron.buckley@springernature.com <aaron.buckley@springernature.com>"]
 
 [dependencies]
+rand = "0.5.5"
